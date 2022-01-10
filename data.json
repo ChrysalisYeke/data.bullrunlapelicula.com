@@ -1,7 +1,7 @@
 {
     "checkpoints": [
         {
-            "timestamp": 1641817310,
+            "timestamp": 1641817310, //hola como estamos
             "value": 10000,
             "price": 0.0211
         },
